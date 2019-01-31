@@ -1,20 +1,11 @@
 
 body {
-<<<<<<< HEAD
   margin: 40px auto;
   max-width: 650px;
   line-height: 1.6;
   font-size: 18px;
   color: #444;
   padding: 0 10px;
-=======
-  margin:40px auto;
-  max-width:650px;
-  line-height:1.6;
-  font-size:18px;
-  color:#444;
-  padding:0 10px;
->>>>>>> 7a704d825cdadc389490597ac750fd760869d691
 }
 
 h1, h2, h3 {
