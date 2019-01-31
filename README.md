@@ -1,4 +1,4 @@
 # BetterMotherFuckingWebsite
 Un meilleur site pour MotherFuckingWebsite
 
-Lien vers celui-ci https://kludhackingproject.github.io/BetterMotherFuckingWebsite/
+Lien vers le site : https://kludhackingproject.github.io/BetterMotherFuckingWebsite/
